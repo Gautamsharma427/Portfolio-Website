@@ -25,3 +25,5 @@ pip install foobar
 npm install
 ```
 * Node_Modules folder is not pushed because it is very heavy which makes the repository slower
+
+**This Website Contains Code Which is Depreciated. Please Check for any alternatives if you want to clone this repository.**
